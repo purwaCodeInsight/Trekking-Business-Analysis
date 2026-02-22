@@ -1,4 +1,4 @@
-Trek Business Analysis
+# Trekking Business Analysis
 
 1) Overview
 This project analyzes trekking and tourism booking data using Python, PostgreSQL, and Power BI. The main objective is to identify insights related to revenue trends, seasonal demand, cancellation impact, package performance, and customer segmentation to support data driven business decisions.
